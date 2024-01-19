@@ -36,7 +36,7 @@ app.listen(port, () => console.log('\x1b[36m%s\x1b[0m', `|    🔗 Listening to 
 
 
 // ADD YOUR STATUS HERE 
-const statusMessages = ["Watching The Gang"];
+const statusMessages = ["Watching Netflix"];
 
 
 let currentIndex = 0;
