@@ -36,7 +36,7 @@ app.listen(port, () => console.log('\x1b[36m%s\x1b[0m', `|    🔗 Listening to 
 
 
 // ADD YOUR STATUS HERE 
-const statusMessages = ["Smoking WeeD"];
+const statusMessages = [".gg/nextlevelshopping"];
 
 
 let currentIndex = 0;
